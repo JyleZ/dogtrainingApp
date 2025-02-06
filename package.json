@@ -1,0 +1,19 @@
+{
+  "name": "dogtrainingapp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "^4.21.2",
+    "http-errors": "~1.6.3",
+    "jade": "^0.29.0",
+    "mkdirp": "^3.0.1",
+    "mongodb": "^6.12.0",
+    "mongoose": "^8.9.5",
+    "morgan": "~1.9.1"
+  }
+}
